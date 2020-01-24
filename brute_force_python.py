@@ -3,8 +3,8 @@ import sys
 print("Python version")
 print (sys.version)
 
-A = [3,2,7,15,77]
-target = 80
+A = [3,2,7,15]
+target = 17
 x = 0
 y = 0
 sol_x = -1
